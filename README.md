@@ -1,6 +1,7 @@
 blockSQP -- Sequential quadratic programming for problems with
             block-diagonal Hessian matrix.
 Copyright (c) 2012-2015 Dennis Janka <dennis.janka@iwr.uni-heidelberg.de>
+Modified by Mirko hahn <mirhahn@ovgu.de>
 
 
 Introduction

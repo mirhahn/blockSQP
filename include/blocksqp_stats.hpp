@@ -17,7 +17,7 @@
 #ifndef BLOCKSQP_STATS_HPP
 #define BLOCKSQP_STATS_HPP
 
-#include "qpOASES.hpp"
+#include <qpOASES.hpp>
 #include "blocksqp_defs.hpp"
 #include "blocksqp_matrix.hpp"
 #include "blocksqp_problemspec.hpp"

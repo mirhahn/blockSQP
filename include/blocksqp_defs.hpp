@@ -17,9 +17,9 @@
 #ifndef BLOCKSQP_DEFS_H
 #define BLOCKSQP_DEFS_H
 
-#include "math.h"
-#include "stdio.h"
-#include "string.h"
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
 #include <set>
 
 namespace blockSQP
